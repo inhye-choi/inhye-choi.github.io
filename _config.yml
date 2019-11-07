@@ -2,13 +2,13 @@
 # Site
 
 title: Frisco Template
-url: "https://inhye.github.io"
+url: "https://inhye_choi.github.io"
 baseurl: ""
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 # 추가 
-remote_theme : mmistakes/minimal-mistakes
+remote_theme : CloudCannon/frisco-jekyll-template
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
